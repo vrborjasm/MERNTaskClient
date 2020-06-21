@@ -29,6 +29,8 @@ npm run start
 ```
 <h2>Previews</h2>
 
+Try the live demo https://fervent-jennings-996af6.netlify.app/
+
 ![](preview/preview.jpg)
 ![](preview/Preview2.jpg)
 ![](preview/preview3.jpg)
