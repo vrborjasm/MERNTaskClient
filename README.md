@@ -30,5 +30,5 @@ npm run start
 <h2>Previews</h2>
 
 ![](preview/preview.jpg)
-![](preview/preview2.jpg)
+![](preview/Preview2.jpg)
 ![](preview/preview3.jpg)
